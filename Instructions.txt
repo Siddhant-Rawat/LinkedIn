@@ -1,6 +1,0 @@
-Use Template.
-Create Webpage Structure using Pen & Paper.
-Create the HTML Structure first and then move onto CSS.
-In a div, create a row and inside that, create columns.
-Logo should always have an <a> tag. List items too.
-Use Semantic HTML.
